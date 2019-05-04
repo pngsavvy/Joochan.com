@@ -1,0 +1,58 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: raleway;
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: 8px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.li{
+    display: block;
+}
+
+.ul{
+    display: block;
+}
+
+header ul .li{
+    padding: 0px;
+    margin: 0px;
+}
+
+.tab{
+    padding-top: 10px;
+}
+
+#JooChan{
+    position: relative;
+    top: 0;
+    float: left;
+    font-size: 30px;
+}
+
+.hitem{
+    float: right;
+    font-size: 30px;
+    letter-spacing: 6px;
+    padding: 0px 10px;
+    text-transform: lowercase;
+}
+
+a, a:visited, a:active{
+    text-decoration: none;
+}
+
+a:hover{
+    opacity: .7;
+}
+
+.Merch{
+        display: none;
+ }
+
+#Home1{
+    display: none;
+}
